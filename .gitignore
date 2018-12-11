@@ -1,3 +1,12 @@
+__not/
+data/
+data*/
+*.npy
+out*/
+*.zip
+out/
+*.mat
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
